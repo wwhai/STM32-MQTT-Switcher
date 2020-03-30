@@ -18,7 +18,7 @@ wwhai、xianli。
 
 ## 5.预览效果
 
-[![GZ3uRK.jpg](../../HexoBlog/source/uploads/GZ3uRK.jpg)](https://imgchr.com/i/GZ3uRK)
-[![GZ3mPx.png](../../HexoBlog/source/uploads/GZ3mPx.png)](https://imgchr.com/i/GZ3mPx)
-[![GZ3VaR.png](../../HexoBlog/source/uploads/GZ3VaR.png)](https://imgchr.com/i/GZ3VaR)
-[![GZ3kqJ.png](../../HexoBlog/source/uploads/GZ3kqJ.png)](https://imgchr.com/i/GZ3kqJ)
+[![GZ3uRK.md.jpg](https://s1.ax1x.com/2020/03/29/GZ3uRK.md.jpg)](https://imgchr.com/i/GZ3uRK)
+[![GZ3mPx.md.png](https://s1.ax1x.com/2020/03/29/GZ3mPx.md.png)](https://imgchr.com/i/GZ3mPx)
+[![GZ3VaR.md.png](https://s1.ax1x.com/2020/03/29/GZ3VaR.md.png)](https://imgchr.com/i/GZ3VaR)
+[![GZ3kqJ.md.png](https://s1.ax1x.com/2020/03/29/GZ3kqJ.md.png)](https://imgchr.com/i/GZ3kqJ)
